@@ -14,3 +14,4 @@ https://www.jetbrains.com/help/pycharm/command-line-code-inspector.html
 Random links:
 https://github.com/JetBrains/intellij-community/blob/4999f5293e4307870020f1d0d672a3d35a52f22d/python/helpers/epydoc/docintrospecter.py
 https://github.com/JetBrains/intellij-community/search?p=4&q=inspect&unscoped_q=inspect
+https://github.com/rwth-i6/returnn/blob/master/tests/pycharm-inspect.py
